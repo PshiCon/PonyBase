@@ -1,0 +1,1 @@
+SELECT UserId,UserSurname,UserName,UserPatronymic,UserLogin, UserPassword,UserRole FROM [User]

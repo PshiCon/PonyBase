@@ -1,0 +1,78 @@
+C:\Users\andry\OneDrive\Рабочий стол\Программы\DataBase\DataBase\bin\Debug\DataBase.exe.config
+C:\Users\andry\OneDrive\Рабочий стол\Программы\DataBase\DataBase\bin\Debug\DataBase.exe
+C:\Users\andry\OneDrive\Рабочий стол\Программы\DataBase\DataBase\bin\Debug\DataBase.pdb
+C:\Users\andry\OneDrive\Рабочий стол\Программы\DataBase\DataBase\obj\Debug\DataBase.csproj.AssemblyReference.cache
+C:\Users\andry\OneDrive\Рабочий стол\Программы\DataBase\DataBase\obj\Debug\DataBase.csproj.SuggestedBindingRedirects.cache
+C:\Users\andry\OneDrive\Рабочий стол\Программы\DataBase\DataBase\obj\Debug\DataBase.formAuthorization.resources
+C:\Users\andry\OneDrive\Рабочий стол\Программы\DataBase\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+C:\Users\andry\OneDrive\Рабочий стол\Программы\DataBase\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+C:\Users\andry\OneDrive\Рабочий стол\Программы\DataBase\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\andry\OneDrive\Рабочий стол\Программы\DataBase\DataBase\obj\Debug\DataBase.exe
+C:\Users\andry\OneDrive\Рабочий стол\Программы\DataBase\DataBase\obj\Debug\DataBase.pdb
+C:\Users\andry\OneDrive\Рабочий стол\Программы\DataBase\DataBase\bin\Debug\Cryptic Captcha.dll
+C:\Users\andry\OneDrive\Рабочий стол\Программы\DataBase\DataBase\obj\Debug\DataBase.csproj.CopyComplete
+C:\Users\andry\OneDrive\Рабочий стол\Программы\DataBase\DataBase\obj\Debug\DataBase.formAdmin.resources
+C:\Users\andry\OneDrive\Рабочий стол\Программы\DataBase\DataBase\obj\Debug\DataBase.formClient.resources
+C:\Users\andry\OneDrive\Рабочий стол\Программы\DataBase\DataBase\obj\Debug\DataBase.formManager.resources
+C:\Users\Андрей\Desktop\PonyDate-master\DataBase\bin\Debug\DataBase.exe.config
+C:\Users\Андрей\Desktop\PonyDate-master\DataBase\bin\Debug\DataBase.exe
+C:\Users\Андрей\Desktop\PonyDate-master\DataBase\bin\Debug\DataBase.pdb
+C:\Users\Андрей\Desktop\PonyDate-master\DataBase\obj\Debug\DataBase.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\PonyDate-master\DataBase\obj\Debug\DataBase.csproj.SuggestedBindingRedirects.cache
+C:\Users\Андрей\Desktop\PonyDate-master\DataBase\obj\Debug\DataBase.formAdmin.resources
+C:\Users\Андрей\Desktop\PonyDate-master\DataBase\obj\Debug\DataBase.formClient.resources
+C:\Users\Андрей\Desktop\PonyDate-master\DataBase\obj\Debug\DataBase.formManager.resources
+C:\Users\Андрей\Desktop\PonyDate-master\DataBase\obj\Debug\DataBase.formAuthorization.resources
+C:\Users\Андрей\Desktop\PonyDate-master\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+C:\Users\Андрей\Desktop\PonyDate-master\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+C:\Users\Андрей\Desktop\PonyDate-master\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\PonyDate-master\DataBase\obj\Debug\DataBase.csproj.CopyComplete
+C:\Users\Андрей\Desktop\PonyDate-master\DataBase\obj\Debug\DataBase.exe
+C:\Users\Андрей\Desktop\PonyDate-master\DataBase\obj\Debug\DataBase.pdb
+C:\Users\andry\OneDrive\Рабочий стол\PonyDataBase493-master\DataBase\bin\Debug\DataBase.exe.config
+C:\Users\andry\OneDrive\Рабочий стол\PonyDataBase493-master\DataBase\bin\Debug\DataBase.exe
+C:\Users\andry\OneDrive\Рабочий стол\PonyDataBase493-master\DataBase\bin\Debug\DataBase.pdb
+C:\Users\andry\OneDrive\Рабочий стол\PonyDataBase493-master\DataBase\obj\Debug\DataBase.csproj.AssemblyReference.cache
+C:\Users\andry\OneDrive\Рабочий стол\PonyDataBase493-master\DataBase\obj\Debug\DataBase.csproj.SuggestedBindingRedirects.cache
+C:\Users\andry\OneDrive\Рабочий стол\PonyDataBase493-master\DataBase\obj\Debug\DataBase.formAdmin.resources
+C:\Users\andry\OneDrive\Рабочий стол\PonyDataBase493-master\DataBase\obj\Debug\DataBase.formClient.resources
+C:\Users\andry\OneDrive\Рабочий стол\PonyDataBase493-master\DataBase\obj\Debug\DataBase.formAuthorization.resources
+C:\Users\andry\OneDrive\Рабочий стол\PonyDataBase493-master\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+C:\Users\andry\OneDrive\Рабочий стол\PonyDataBase493-master\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+C:\Users\andry\OneDrive\Рабочий стол\PonyDataBase493-master\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\andry\OneDrive\Рабочий стол\PonyDataBase493-master\DataBase\obj\Debug\DataBase.csproj.CopyComplete
+C:\Users\andry\OneDrive\Рабочий стол\PonyDataBase493-master\DataBase\obj\Debug\DataBase.exe
+C:\Users\andry\OneDrive\Рабочий стол\PonyDataBase493-master\DataBase\obj\Debug\DataBase.pdb
+C:\Users\andry\OneDrive\Рабочий стол\PonyDataBase493-master\DataBase\obj\Debug\DataBase.formEditingProduct.resources
+C:\Users\Андрей\Desktop\PonyBase-master\DataBase\bin\Debug\DataBase.exe.config
+C:\Users\Андрей\Desktop\PonyBase-master\DataBase\bin\Debug\DataBase.exe
+C:\Users\Андрей\Desktop\PonyBase-master\DataBase\bin\Debug\DataBase.pdb
+C:\Users\Андрей\Desktop\PonyBase-master\DataBase\obj\Debug\DataBase.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\PonyBase-master\DataBase\obj\Debug\DataBase.csproj.SuggestedBindingRedirects.cache
+C:\Users\Андрей\Desktop\PonyBase-master\DataBase\obj\Debug\DataBase.formEditingProduct.resources
+C:\Users\Андрей\Desktop\PonyBase-master\DataBase\obj\Debug\DataBase.formAdmin.resources
+C:\Users\Андрей\Desktop\PonyBase-master\DataBase\obj\Debug\DataBase.formAuthorization.resources
+C:\Users\Андрей\Desktop\PonyBase-master\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+C:\Users\Андрей\Desktop\PonyBase-master\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+C:\Users\Андрей\Desktop\PonyBase-master\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\PonyBase-master\DataBase\obj\Debug\DataBase.csproj.CopyComplete
+C:\Users\Андрей\Desktop\PonyBase-master\DataBase\obj\Debug\DataBase.exe
+C:\Users\Андрей\Desktop\PonyBase-master\DataBase\obj\Debug\DataBase.pdb
+C:\Users\Андрей\Desktop\PonyBase-master\DataBase\obj\Debug\DataBase.formProduct.resources
+C:\Users\andry\OneDrive\Рабочий стол\PonyBase493-master\DataBase\bin\Debug\DataBase.exe.config
+C:\Users\andry\OneDrive\Рабочий стол\PonyBase493-master\DataBase\bin\Debug\DataBase.exe
+C:\Users\andry\OneDrive\Рабочий стол\PonyBase493-master\DataBase\bin\Debug\DataBase.pdb
+C:\Users\andry\OneDrive\Рабочий стол\PonyBase493-master\DataBase\obj\Debug\DataBase.csproj.AssemblyReference.cache
+C:\Users\andry\OneDrive\Рабочий стол\PonyBase493-master\DataBase\obj\Debug\DataBase.csproj.SuggestedBindingRedirects.cache
+C:\Users\andry\OneDrive\Рабочий стол\PonyBase493-master\DataBase\obj\Debug\DataBase.formEditingProduct.resources
+C:\Users\andry\OneDrive\Рабочий стол\PonyBase493-master\DataBase\obj\Debug\DataBase.formAdmin.resources
+C:\Users\andry\OneDrive\Рабочий стол\PonyBase493-master\DataBase\obj\Debug\DataBase.formProduct.resources
+C:\Users\andry\OneDrive\Рабочий стол\PonyBase493-master\DataBase\obj\Debug\DataBase.formAuthorization.resources
+C:\Users\andry\OneDrive\Рабочий стол\PonyBase493-master\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+C:\Users\andry\OneDrive\Рабочий стол\PonyBase493-master\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+C:\Users\andry\OneDrive\Рабочий стол\PonyBase493-master\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\andry\OneDrive\Рабочий стол\PonyBase493-master\DataBase\obj\Debug\DataBase.csproj.CopyComplete
+C:\Users\andry\OneDrive\Рабочий стол\PonyBase493-master\DataBase\obj\Debug\DataBase.exe
+C:\Users\andry\OneDrive\Рабочий стол\PonyBase493-master\DataBase\obj\Debug\DataBase.pdb
+C:\Users\andry\OneDrive\Рабочий стол\PonyBase493-master\DataBase\obj\Debug\DataBase.formOrder.resources
+C:\Users\andry\OneDrive\Рабочий стол\PonyBase493-master\DataBase\obj\Debug\DataBase.csproj.ResolveComReference.cache
