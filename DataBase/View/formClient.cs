@@ -144,7 +144,7 @@ namespace DataBase
                     desc += "Производитель: " + (string)Helper.Reader["ManufacturerName"] + Environment.NewLine;
                     cost = (decimal)Helper.Reader["ProductCost"];
                     desc +="Цена: " + cost.ToString("C2") + Environment.NewLine;
-                    int c= Convert.ToInt32( Helper.Reader["ProductDiscountNow"]);
+                    int c = Convert.ToInt32( Helper.Reader["ProductDiscountNow"]);
                     desc += "Скидка: " + Helper.Reader["ProductDiscountNow"] + Environment.NewLine;
                     desc += "Цена со скидкой: " + (cost - (cost*c)/100).ToString("C2") +  Environment.NewLine;
                     
@@ -293,6 +293,8 @@ namespace DataBase
             rowProduct = e.RowIndex;
             if (e.Button == MouseButtons.Right)
             {
+               
+           
                 try
                 {
                     if (UserClass.NameRole == "Менеджер"|| UserClass.NameRole == "Клиент")
@@ -320,6 +322,7 @@ namespace DataBase
                 {
 
                 }
+            
             }
         }
 
@@ -342,7 +345,7 @@ namespace DataBase
                 product.productCategoryID = ProductClass.ProductCategoryID;
                 product.productPhoto = ProductClass.ProductPhoto;
                 product.productManufacturerID = ProductClass.ProductManufacturerID;
-                product.productCost = ProductClass.ProductCost;
+                product.productCost = ProductClass.ProductCost;               
                 product.productDiscountNow = ProductClass.ProductDiscountNow;
                 product.productQuantityInStock = ProductClass.ProductQuantityInStock;
                 product.productProviderID = ProductClass.ProductProviderID;

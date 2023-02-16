@@ -9,8 +9,8 @@ namespace DataBase
     internal class ProductClass
     {
         public static string ProductArticleNumber;
-        public static  string ProductName;
-        public static  string ProductDescription;
+        public static string ProductName;
+        public static string ProductDescription;
         public static  int ProductCategoryID;
         public static string ProductPhoto;
         public static int ProductManufacturerID;
